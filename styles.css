@@ -19,7 +19,7 @@ background-repeat: no-repeat;
   background-color: #FF0000;
 }
 
-logo_container{
+.logo_container{
   color: #white;
   height: 100%;
   display: table-cell;
