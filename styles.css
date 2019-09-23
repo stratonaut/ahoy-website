@@ -74,17 +74,16 @@ background-repeat: no-repeat;
 .above_fold {
   width: 100%;
   display: table;
-  height: 3000px;
+  height: 800px;
 }
 
 .welcome_msg {
   width:60%;
   margin: 0 auto;
-  display: block;
   vertical-align: middle;
   height:100%;
   text-align: center;
   color: #FFFFFF;
   font-family: 'Fjalla One';
-  font-size:32px;
+  font-size:22px;
 }
