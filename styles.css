@@ -77,9 +77,14 @@ background-repeat: no-repeat;
   height: 800px;
 }
 
+.text_container {
+  height: 100%;
+  display: table-cell;
+  margin: 0 auto;
+}
+
 .welcome_msg {
   width:60%;
-  margin: 0 auto;
   vertical-align: middle;
   height:100%;
   text-align: center;
