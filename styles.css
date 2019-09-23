@@ -16,7 +16,6 @@ background-repeat: no-repeat;
   height: 100%;
   display: block;
   margin: 0 auto;
-  background-color: #FF0000;
 }
 
 .logo_container{
@@ -32,9 +31,10 @@ background-repeat: no-repeat;
   vertical-align: middle;
   font-family: 'Noto Sans JP';
   font-size: 22px;
+  font-weight: 200;
 }
 
-.logo_container h1 span {
+.logo_container h1 span{
   font-weight: 800;
 }
 
