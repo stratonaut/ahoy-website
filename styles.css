@@ -67,7 +67,15 @@ background-repeat: no-repeat;
   
 }
 
+.above_fold {
+  width: 100%;
+  display: table;
+  height: 100%;
+}
+
 .welcome_msg {
+  display: table-cell;
+  float: middle;
   vertical-align: middle;
   height:100%;
   color: #FFFFFF;
