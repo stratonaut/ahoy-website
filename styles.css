@@ -79,7 +79,7 @@ background-repeat: no-repeat;
 
 .welcome_msg {
   width:60%;
-  float: center;
+  margin: 0 auto;
   display: block;
   vertical-align: middle;
   height:100%;
